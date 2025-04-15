@@ -28,24 +28,6 @@ In this challenge, the task was to analyze the attack, identify the geographical
 
 ---
 
-## Instructions
-
-### Clone the Repository
-
-To begin analyzing or reviewing the solutions, you can clone the repository to your local machine:
-
-```bash
-git clone https://github.com/maseer-ops/CyberDefenders-Solutions.git
-# CyberDefenders Solutions
-
-This repository contains the solutions to the challenges I solved on CyberDefenders.org. The repository is organized by challenge and includes relevant scripts and solutions.
-
-## Challenges Solved
-
-- **Challenge 1**: [Name of the challenge]
-- **Challenge 2**: [Name of the challenge]
-- ...
-
 ## Solution Files
 
 - **webshell-exercise/answers.txt**: This file contains the answers to the questions in the webshell challenge.
